@@ -1,0 +1,23 @@
+RCI Notes for Git workshop
+
+INTRO
+-Bitbucket and GitHub
+-student pack for GitHub: up to 5 private
+-GitHub for industry
+
+-SourceTree is GUI for Git
+-TortoiseGit is GUI for Git
+
+COMMANDS
+-git config --global user.name
+
+-git init
+	initiates tracking
+	
+-git clone https://blahblah.git
+
+-git branch
+	-git branch maxb
+	
+-git checkout maxb
+
